@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+sessions/
+evidence/
+*.mp4
