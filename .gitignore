@@ -7,8 +7,12 @@ coverage/
 *.db
 *.sqlite
 *.sqlite3
+*.db-*
+*.sqlite-*
 .env
 .env.*
+!.env.example
 sessions/
 evidence/
 *.mp4
+server/data/
