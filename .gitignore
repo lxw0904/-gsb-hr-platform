@@ -12,3 +12,13 @@ coverage/
 sessions/
 evidence/
 *.mp4
+
+# Local review/browser artifacts
+.edge-profile*/
+review-shots/
+*.review.png
+login-review.png
+
+# Runtime database
+server/data/*.sqlite
+server/data/*.sqlite-*
